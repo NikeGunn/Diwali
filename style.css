@@ -99,7 +99,7 @@ background: linear-gradient(90deg, orangered, orange);
 }
 }
 
-@media(max-width:998px){
+@media(max-width:768px){
     html{
         font-size:45%;
     }
