@@ -31,6 +31,8 @@ padding: 0;
 }
 .fireworks li {
 display: inline-block;
+align-items: center;
+justify-content: center;
 margin: 20px;
 height: 70px;
 width: 74px;
